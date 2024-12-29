@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Pi-hole untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/pihole.svg)](https://ci-apps.yunohost.org/ci/apps/pihole/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/pihole.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/pihole.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/pihole)](https://ci-apps.yunohost.org/ci/apps/pihole/)
+![Status kerja](https://apps.yunohost.org/badge/state/pihole)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/pihole)
 
 [![Pasang Pi-hole dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=pihole)
 
@@ -18,7 +20,7 @@ Ini TIDAK boleh diedit dengan tangan.
 
 The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content without installing any client-side software.
 
-**Versi terkirim:** 5.18.3~ynh1
+**Versi terkirim:** 5.18.4~ynh1
 
 ## Tangkapan Layar
 
