@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Pi-hole YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/pihole.svg)](https://ci-apps.yunohost.org/ci/apps/pihole/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/pihole.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/pihole.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/pihole)](https://ci-apps.yunohost.org/ci/apps/pihole/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/pihole)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/pihole)
 
 [![Instalatu Pi-hole YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=pihole)
 
@@ -18,7 +20,7 @@ EZ editatu eskuz.
 
 The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content without installing any client-side software.
 
-**Paketatutako bertsioa:** 5.18.3~ynh1
+**Paketatutako bertsioa:** 5.18.4~ynh1
 
 ## Pantaila-argazkiak
 

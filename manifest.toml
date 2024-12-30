@@ -7,7 +7,7 @@ name = "Pi-hole"
 description.en = "Network-wide ad blocking via your own DNS server"
 description.fr = "Filtrage publicitaire via votre propre serveur DNS"
 
-version = "5.18.3~ynh1"
+version = "5.18.4~ynh1"
 
 maintainers = []
 
@@ -55,8 +55,8 @@ ram.runtime = "200M"
 [resources]
     [resources.sources]
     [resources.sources.main]
-    url = "https://github.com/pi-hole/pi-hole/archive/refs/tags/v5.18.3.tar.gz"
-    sha256 = "871b47b41813342484df8f10981801eba25f27c9cdbeafd6e71f0edbae6818e5"
+    url = "https://github.com/pi-hole/pi-hole/archive/refs/tags/v5.18.4.tar.gz"
+    sha256 = "723ed042ae3703eaef8bc0e52ab6ab8d2062684af96c4e4ca09ddc513505df1f"
 
     autoupdate.upstream = "https://github.com/pi-hole/pi-hole"
     autoupdate.strategy = "latest_github_release"
