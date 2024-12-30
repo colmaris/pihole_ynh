@@ -5,7 +5,9 @@
 
 # Pi-hole для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/pihole.svg)](https://ci-apps.yunohost.org/ci/apps/pihole/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/pihole.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/pihole.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/pihole)](https://ci-apps.yunohost.org/ci/apps/pihole/)
+![Состояние работы](https://apps.yunohost.org/badge/state/pihole)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/pihole)
 
 [![Установите Pi-hole с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=pihole)
 
@@ -18,7 +20,7 @@
 
 The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content without installing any client-side software.
 
-**Поставляемая версия:** 5.18.3~ynh1
+**Поставляемая версия:** 5.18.4~ynh1
 
 ## Снимки экрана
 
