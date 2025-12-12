@@ -7,7 +7,7 @@ name = "Pi-hole"
 description.en = "Network-wide ad blocking via your own DNS server"
 description.fr = "Filtrage publicitaire via votre propre serveur DNS"
 
-version = "5.18.4~ynh1"
+version = "6.3.0~ynh1"
 
 maintainers = []
 
